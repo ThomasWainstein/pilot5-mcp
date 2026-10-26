@@ -26,3 +26,5 @@ Step-by-step instructions for Claude, ChatGPT, VS Code, Perplexity and Le Chat: 
 [support@pilot5.ai](mailto:support@pilot5.ai) · [Privacy](https://pilot5.ai/privacy) · [Terms](https://pilot5.ai/terms)
 
 Pilot5 is operated by Pilot5 Inc.
+
+This license covers the files in this repository (connection configuration and documentation). It does not cover the Pilot5 service, which is provided under the Pilot5 Terms of Service: https://pilot5.ai/terms
